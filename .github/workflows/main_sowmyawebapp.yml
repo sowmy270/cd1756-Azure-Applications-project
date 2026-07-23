@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'sowmyawebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_527A333D9C254026819F58256342A5C9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5CDB67C5FB694CA2BF68F582905384E1 }}
